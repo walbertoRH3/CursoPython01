@@ -1,0 +1,4 @@
+manzana:6.50
+leche:32
+pan:15.60
+maizena = 16.50
